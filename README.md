@@ -2,7 +2,6 @@
 - 本数据集采集自云南省的11个站点，包含 **350万张标注图像**、**50万张数据增强图像** 和 **400万张图像分割数据**。数据涵盖城市道路、省道、国道等多种场景，覆盖不同光照、天气和季节条件，确保多样性和代表性。
 ![原始图像](https://github.com/user-attachments/assets/88ad3020-6747-414a-96ac-95ff9a5614c8)
 | 原始图像 |
-|:-------------:|
 ![标注图像](https://github.com/user-attachments/assets/bc32447a-ed24-48a8-a948-116e42022052)
 标注图像
 ![数据增强](https://github.com/user-attachments/assets/48c2bde4-a493-4a66-8884-6e21be819fc6)
